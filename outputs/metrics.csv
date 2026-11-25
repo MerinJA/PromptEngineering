@@ -1,0 +1,7 @@
+scenario,method,success,collision,time_s,distance_m,min_clearance_m
+Croisement latéral,Reactive,True,False,7.2,9.874999999999998,1.2634266469913842
+Croisement latéral,DOA-PVO,True,False,8.1,10.444999999999997,2.031931176499062
+Trajectoire oscillante,Reactive,True,False,7.9,10.314999999999998,0.5670624046219253
+Trajectoire oscillante,DOA-PVO,True,False,8.0,10.08,0.552249428499995
+Double passage,Reactive,True,False,7.9,10.324999999999996,0.5895754169142882
+Double passage,DOA-PVO,True,False,9.600000000000001,12.199999999999998,1.6299675410675833

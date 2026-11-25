@@ -1,0 +1,18 @@
+timestamp_local=2026-11-25T16:33:10+09:00
+========================================================================
+RANDOM DYNAMIC-OBSTACLE CAMPAIGN
+seed=1139158958
+iterations=60
+
+[Reactive]
+success_rate_percent=91.67
+mean_minimum_clearance_m=0.187
+mean_route_length_m=11.089
+
+[DOA-PVO]
+success_rate_percent=95.00
+mean_minimum_clearance_m=1.516
+mean_route_length_m=15.454
+
+rerun: python run_experiments.py --seed 1139158958 --runs 60
+========================================================================
